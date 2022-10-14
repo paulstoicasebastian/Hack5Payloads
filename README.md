@@ -1,5 +1,6 @@
 # Payloads
-> Blue Cosmo 
+> Blue Cosmo
+https://github.com/CosmodiumCS
 
 A repository containing my payloads for easy finding :)
 
